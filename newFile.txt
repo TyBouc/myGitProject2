@@ -1,1 +1,2 @@
-Hello my name is Ty Boucino!!! Changes have been made...
+changes are not being made (they have been)
+>>>>>>> newBranch
